@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "registry": "https://clawhub.ai",
+  "slug": "gemini",
+  "installedVersion": "1.0.0",
+  "installedAt": 1784794180274,
+  "artifact": {
+    "kind": "archive",
+    "sha256": "f33dd7dd18bbd45b9aa81a7cebbc6469d00928c7e4334c78627ebfb60930bd1e",
+    "integrity": "sha256-8z3X3Ri71FuaqBp867xkadAJKMfkM0x4Yn6/tgkwvR4="
+  },
+  "skillFile": {
+    "path": "SKILL.md",
+    "sha256": "bd1a39d637571c70c3c5e6deeec4d2ce9a8e612ad8df1ef178b4bc24f2eea8e5"
+  }
+}
