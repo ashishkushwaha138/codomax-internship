@@ -1,0 +1,57 @@
+DAY 4 - PANDAS FUNDAMENTALS: STUDENT SCORE DATASET EXPLORATION REPORT
+======================================================================
+
+Dataset: student_scores.csv
+Shape: 100 rows × 16 columns
+Memory Usage: 40.24 KB
+Missing Values: 0
+Duplicate Rows: 0
+
+COLUMNS:
+   1. student_id                | str        | Unique: 100
+   2. name                      | str        | Unique: 100
+   3. age                       | int64      | Unique: 8
+   4. gender                    | str        | Unique: 3
+   5. department                | str        | Unique: 5
+   6. math_score                | float64    | Unique: 85
+   7. physics_score             | float64    | Unique: 93
+   8. chemistry_score           | float64    | Unique: 93
+   9. english_score             | float64    | Unique: 88
+  10. cs_score                  | float64    | Unique: 85
+  11. attendance_pct            | float64    | Unique: 78
+  12. study_hours_per_week      | float64    | Unique: 77
+  13. extracurricular           | str        | Unique: 5
+  14. scholarship               | bool       | Unique: 2
+  15. placement_status          | str        | Unique: 3
+  16. average_score             | float64    | Unique: 93
+
+
+STATISTICAL SUMMARY (NUMERIC):
+              age  math_score  physics_score  chemistry_score  english_score    cs_score  attendance_pct  study_hours_per_week  average_score
+count  100.000000  100.000000     100.000000       100.000000     100.000000  100.000000      100.000000            100.000000     100.000000
+mean    20.600000   77.113000      74.402000        68.687000      77.778000   79.291000       84.571000             14.452000      75.454200
+std      2.146173   14.576691      13.395325        15.874487      11.832275    9.814328       10.181091              5.086871       4.905391
+min     17.000000   45.100000      42.700000        30.700000      45.100000   53.400000       61.300000              0.000000      62.800000
+25%     19.000000   67.225000      65.775000        59.175000      70.875000   72.600000       76.950000             10.800000      72.445000
+50%     20.000000   76.300000      74.900000        68.700000      78.250000   79.200000       85.450000             15.100000      75.510000
+75%     22.000000   88.750000      84.325000        78.300000      86.425000   85.225000       92.725000             18.025000      78.260000
+max     24.000000  100.000000     100.000000       100.000000     100.000000  100.000000      100.000000             26.800000      89.420000
+
+PLACEMENT DISTRIBUTION:
+placement_status
+Placed            76
+Not Placed        19
+Higher Studies     5
+
+TOP 10 STUDENTS BY AVERAGE SCORE:
+student_id       name       department  average_score
+    STU074 Student_74      Electronics          89.42
+    STU013 Student_13            Civil          88.28
+    STU028 Student_28       Mechanical          83.82
+    STU039 Student_39 Computer Science          83.78
+    STU051 Student_51            Civil          82.34
+    STU072 Student_72      Electronics          81.96
+    STU030 Student_30            Civil          81.80
+    STU053 Student_53         Chemical          81.80
+    STU033 Student_33 Computer Science          81.76
+    STU036 Student_36       Mechanical          81.68
