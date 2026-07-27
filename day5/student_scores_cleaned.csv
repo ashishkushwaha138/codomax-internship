@@ -1,0 +1,101 @@
+student_id,name,age,gender,department,math_score,physics_score,chemistry_score,english_score,cs_score,attendance_pct,study_hours_per_week,extracurricular,scholarship,placement_status
+STU001,Student_1,23,Other,Computer Science,60.6,81.6,74.7,80.6,75.1,81.5,8.0,Coding,True,Not Placed
+STU002,Student_2,20,Female,Computer Science,89.7,73.0,52.4,88.9,84.0,82.7,17.5,Coding,False,Placed
+STU003,Student_3,21,Female,Mechanical,75.6,78.2,75.5,90.7,69.1,93.1,9.8,Music,True,Not Placed
+STU004,Student_4,23,Female,Electronics,72.9,70.5,68.6,85.8,71.8,75.6,21.4,Coding,False,Not Placed
+STU005,Student_5,19,Female,Chemical,73.1,65.2,74.4,67.5,95.1,87.3,13.7,Debate,False,Placed
+STU006,Student_6,24,Female,Civil,86.1,74.9,74.5,78.0,84.0,87.5,15.7,Sports,True,Placed
+STU007,Student_7,21,Male,Electronics,68.2,84.4,30.8,100.0,76.5,100.0,17.1,Sports,False,Placed
+STU008,Student_8,21,Male,Civil,86.7,65.5,55.6,90.2,88.3,74.9,5.4,Sports,True,Placed
+STU009,Student_9,23,Male,Mechanical,90.7,63.3,68.3,72.7,92.9,78.4,11.7,Music,False,Placed
+STU010,Student_10,18,Male,Mechanical,69.9,67.0,69.1,97.0,75.6,75.6,20.2,Coding,False,Placed
+STU011,Student_11,19,Male,Computer Science,61.1,85.3,74.2,73.3,75.7,68.3,19.3,Coding,True,Placed
+STU012,Student_12,23,Male,Chemical,67.3,92.3,74.8,70.0,74.5,100.0,16.4,Debate,False,Placed
+STU013,Student_13,19,Female,Civil,85.7,77.1,94.3,94.7,89.6,72.6,8.3,Debate,True,Not Placed
+STU014,Student_14,19,Male,Electronics,76.4,80.1,75.0,62.3,89.7,76.8,17.9,Music,True,Not Placed
+STU015,Student_15,24,Male,Mechanical,84.5,63.2,65.0,55.0,93.9,98.2,18.6,Sports,False,Higher Studies
+STU016,Student_16,21,Female,Computer Science,100.0,84.3,44.4,89.3,90.1,67.5,15.2,Music,False,Placed
+STU017,Student_17,20,Male,Computer Science,78.5,79.7,48.1,78.3,63.7,92.6,21.1,Coding,False,Placed
+STU018,Student_18,24,Female,Civil,62.9,62.1,78.6,79.5,82.8,70.9,11.6,Coding,False,Placed
+STU019,Student_19,24,Male,Mechanical,90.9,47.0,87.0,73.7,69.4,97.5,12.5,Coding,False,Placed
+STU020,Student_20,19,Other,Chemical,75.8,54.9,94.7,75.1,74.9,63.3,2.6,Coding,True,Not Placed
+STU021,Student_21,22,Female,Mechanical,88.1,62.6,56.8,72.5,81.7,67.5,19.6,Coding,False,Placed
+STU022,Student_22,21,Male,Civil,91.0,88.3,65.1,70.5,88.4,79.6,16.6,Coding,False,Not Placed
+STU023,Student_23,18,Male,Civil,60.6,93.7,73.9,73.4,71.1,94.7,6.6,Coding,False,Placed
+STU024,Student_24,24,Female,Mechanical,95.7,65.8,100.0,73.0,56.8,84.7,6.2,Music,False,Placed
+STU025,Student_25,20,Female,Civil,88.6,66.3,71.8,68.1,81.8,81.6,10.6,Coding,False,Placed
+STU026,Student_26,22,Female,Mechanical,65.9,75.7,94.8,71.5,100.0,98.5,19.0,Debate,False,Placed
+STU027,Student_27,22,Female,Electronics,79.6,72.2,72.7,48.0,78.0,100.0,13.5,Sports,False,Placed
+STU028,Student_28,18,Male,Mechanical,78.9,85.0,88.5,86.2,80.5,91.7,11.0,Coding,False,Placed
+STU029,Student_29,24,Male,Mechanical,75.4,64.7,86.4,82.7,97.8,78.8,10.0,Sports,False,Placed
+STU030,Student_30,20,Male,Civil,88.1,85.3,72.7,77.0,85.9,80.8,9.7,Music,False,Placed
+STU031,Student_31,21,Female,Civil,96.6,68.7,53.7,80.8,82.2,72.1,5.3,Sports,False,Placed
+STU032,Student_32,17,Female,Computer Science,75.1,84.0,65.7,81.3,84.4,86.0,9.0,Music,True,Placed
+STU033,Student_33,20,Male,Computer Science,95.0,68.2,93.8,69.3,82.5,68.7,9.6,Debate,True,Placed
+STU034,Student_34,18,Male,Electronics,89.8,63.4,84.0,71.6,68.6,90.5,18.4,Music,False,Placed
+STU035,Student_35,22,Male,Computer Science,78.5,98.8,63.1,84.3,66.6,100.0,14.2,Music,True,Not Placed
+STU036,Student_36,21,Male,Mechanical,77.6,86.9,64.5,80.5,98.9,92.2,10.9,Coding,False,Placed
+STU037,Student_37,20,Female,Civil,57.7,46.9,42.3,100.0,81.8,80.3,26.5,Coding,True,Not Placed
+STU038,Student_38,17,Female,Computer Science,52.5,65.7,93.1,97.4,81.0,90.3,11.7,Coding,False,Placed
+STU039,Student_39,17,Female,Computer Science,77.5,88.9,84.2,89.2,79.1,100.0,20.8,Debate,False,Placed
+STU040,Student_40,19,Male,Electronics,62.2,55.2,67.8,68.9,87.8,100.0,23.1,Debate,False,Not Placed
+STU041,Student_41,19,Male,Electronics,74.4,82.8,73.2,71.2,100.0,75.0,7.2,Coding,True,Placed
+STU042,Student_42,23,Female,Mechanical,67.0,81.3,35.3,66.0,85.2,90.1,15.4,Coding,False,Placed
+STU043,Student_43,18,Female,Civil,48.2,62.2,62.2,81.4,74.1,83.4,12.4,Coding,False,Placed
+STU044,Student_44,24,Female,Electronics,80.4,71.9,91.4,45.1,78.7,93.1,12.0,Coding,True,Placed
+STU045,Student_45,20,Female,Computer Science,68.8,42.7,85.7,72.5,90.7,88.8,17.8,Debate,False,Placed
+STU046,Student_46,20,Female,Civil,76.2,96.8,75.3,74.3,74.2,61.3,11.9,Sports,False,Placed
+STU047,Student_47,24,Female,Civil,61.6,67.7,69.8,59.7,88.5,81.5,12.5,Debate,False,Not Placed
+STU048,Student_48,23,Male,Computer Science,70.0,83.3,82.7,87.6,56.8,87.0,14.2,Debate,False,Placed
+STU049,Student_49,22,Male,Electronics,98.4,80.6,65.5,64.3,77.7,70.7,13.1,Music,True,Placed
+STU050,Student_50,22,Male,Computer Science,76.9,91.0,43.4,81.2,86.3,90.8,9.1,Music,False,Placed
+STU051,Student_51,23,Male,Civil,83.2,65.9,69.9,100.0,92.7,69.8,19.0,Music,False,Not Placed
+STU052,Student_52,22,Female,Chemical,55.9,74.9,76.4,58.7,71.8,77.0,20.2,Music,True,Placed
+STU053,Student_53,19,Male,Chemical,100.0,79.8,88.0,76.2,65.0,98.4,16.7,Coding,False,Placed
+STU054,Student_54,20,Female,Mechanical,100.0,84.2,46.9,73.1,77.4,76.2,13.1,Coding,False,Placed
+STU055,Student_55,23,Female,Computer Science,95.5,88.2,68.0,70.8,68.7,90.7,11.5,Sports,True,Higher Studies
+STU056,Student_56,20,Male,Computer Science,87.4,65.3,68.8,87.1,78.5,67.5,11.5,Debate,False,Placed
+STU057,Student_57,24,Male,Mechanical,75.2,62.7,52.4,91.3,79.9,100.0,26.8,Coding,False,Placed
+STU058,Student_58,17,Female,Mechanical,81.6,91.0,77.8,87.3,66.8,82.0,19.7,Sports,False,Placed
+STU059,Student_59,19,Male,Mechanical,90.7,43.5,82.0,69.3,88.0,86.0,10.8,Coding,False,Placed
+STU060,Student_60,21,Male,Civil,65.6,94.0,65.3,100.0,78.4,86.8,15.8,Coding,True,Placed
+STU061,Student_61,19,Male,Computer Science,68.3,67.8,100.0,56.8,90.8,91.1,13.2,Debate,False,Placed
+STU062,Student_62,23,Male,Civil,50.0,71.9,64.9,65.6,61.6,69.8,17.9,Coding,False,Not Placed
+STU063,Student_63,21,Female,Mechanical,63.4,62.4,62.9,80.0,69.8,84.9,17.7,Music,False,Not Placed
+STU064,Student_64,17,Female,Computer Science,99.9,71.3,62.4,79.1,85.2,78.4,20.4,Coding,False,Placed
+STU065,Student_65,23,Female,Civil,70.0,89.8,57.0,83.9,72.0,68.1,10.7,Debate,False,Not Placed
+STU066,Student_66,18,Female,Civil,70.2,82.8,61.1,97.0,78.4,94.9,15.5,Debate,False,Placed
+STU067,Student_67,20,Female,Mechanical,79.8,78.9,47.1,76.6,80.0,81.5,6.3,Debate,False,Placed
+STU068,Student_68,17,Male,Computer Science,50.8,73.2,66.9,79.4,81.6,87.4,8.7,Sports,False,Placed
+STU069,Student_69,20,Female,Mechanical,89.2,51.8,70.9,70.9,73.2,86.8,19.4,Coding,False,Higher Studies
+STU070,Student_70,22,Female,Computer Science,94.0,60.2,33.5,85.1,81.5,81.7,10.2,Coding,False,Placed
+STU071,Student_71,18,Female,Chemical,80.7,67.2,68.4,74.2,72.2,100.0,10.8,Coding,False,Placed
+STU072,Student_72,18,Female,Electronics,99.8,78.4,70.7,74.2,86.7,84.5,15.0,Coding,True,Placed
+STU073,Student_73,17,Male,Electronics,55.1,73.0,78.2,84.5,78.9,69.4,18.5,Coding,True,Placed
+STU074,Student_74,18,Male,Electronics,100.0,85.8,89.3,90.4,81.6,81.0,9.7,Debate,False,Placed
+STU075,Student_75,21,Male,Mechanical,64.0,78.6,83.6,51.5,100.0,90.0,0.0,Coding,False,Placed
+STU076,Student_76,18,Male,Chemical,55.8,72.8,60.1,82.3,68.9,90.3,10.6,Debate,False,Placed
+STU077,Student_77,20,Female,Computer Science,71.4,100.0,58.2,74.8,93.9,74.1,21.0,Sports,False,Placed
+STU078,Student_78,20,Female,Civil,100.0,77.7,79.3,89.4,53.4,94.3,16.7,Coding,False,Placed
+STU079,Student_79,23,Male,Computer Science,74.7,66.0,61.2,75.0,59.2,67.4,21.6,Debate,False,Not Placed
+STU080,Student_80,20,Female,Civil,61.0,98.0,50.4,93.6,67.6,96.4,9.3,Debate,False,Placed
+STU081,Student_81,23,Male,Computer Science,55.6,88.8,100.0,69.9,68.2,71.8,6.8,Sports,False,Placed
+STU082,Student_82,20,Male,Chemical,73.4,97.4,65.0,51.2,82.0,82.7,17.3,Music,False,Not Placed
+STU083,Student_83,21,Male,Civil,45.1,70.4,60.0,90.6,82.9,95.6,16.2,Coding,False,Placed
+STU084,Student_84,24,Male,Mechanical,55.5,85.7,34.9,67.9,77.5,86.2,16.5,Music,False,Placed
+STU085,Student_85,23,Female,Computer Science,98.1,51.7,83.6,59.0,78.5,93.2,19.7,Coding,True,Higher Studies
+STU086,Student_86,19,Male,Computer Science,94.8,83.0,54.2,78.2,85.3,91.2,17.1,Debate,True,Placed
+STU087,Student_87,22,Female,Civil,73.1,69.8,70.5,75.1,88.3,97.9,17.0,Sports,True,Placed
+STU088,Student_88,17,Female,Mechanical,68.0,53.0,85.5,87.9,66.7,95.6,18.6,Sports,False,Placed
+STU089,Student_89,20,Male,Mechanical,75.9,86.5,54.4,88.7,76.4,80.5,17.5,Coding,False,Placed
+STU090,Student_90,18,Other,Chemical,100.0,46.7,71.3,79.1,79.3,91.3,19.3,Music,False,Placed
+STU091,Student_91,24,Other,Mechanical,81.1,45.2,94.4,67.4,84.9,69.7,20.0,Coding,False,Placed
+STU092,Student_92,20,Male,Mechanical,88.6,77.1,30.7,81.4,72.3,84.4,22.7,Debate,True,Placed
+STU093,Student_93,18,Female,Mechanical,72.0,80.0,57.0,80.0,79.1,93.2,11.8,Coding,False,Placed
+STU094,Student_94,22,Male,Electronics,75.9,85.6,55.5,84.8,80.3,86.3,17.4,Sports,True,Higher Studies
+STU095,Student_95,22,Male,Chemical,84.7,82.4,67.0,67.5,73.0,89.5,13.1,Sports,False,Not Placed
+STU096,Student_96,22,Male,Computer Science,76.9,92.7,69.2,73.2,72.7,82.9,10.8,Coding,True,Placed
+STU097,Student_97,18,Female,Civil,46.5,81.8,53.0,84.1,81.0,96.3,11.6,Coding,False,Placed
+STU098,Student_98,20,Female,Computer Science,94.2,70.1,59.5,93.0,78.7,84.2,17.5,Debate,True,Not Placed
+STU099,Student_99,22,Male,Chemical,65.8,71.0,57.6,89.6,85.0,80.3,17.1,Music,False,Placed
+STU100,Student_100,21,Male,Civil,100.0,68.0,64.4,79.0,69.5,93.9,17.0,Coding,False,Placed
