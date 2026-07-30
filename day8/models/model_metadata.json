@@ -1,0 +1,32 @@
+{
+  "model_type": "LinearRegression",
+  "features": [
+    "math_score",
+    "physics_score",
+    "chemistry_score",
+    "english_score",
+    "cs_score",
+    "attendance_pct",
+    "study_hours_per_week",
+    "age"
+  ],
+  "target": "avg_score",
+  "feature_names": [
+    "math_score",
+    "physics_score",
+    "chemistry_score",
+    "english_score",
+    "cs_score",
+    "attendance_pct",
+    "study_hours_per_week",
+    "age"
+  ],
+  "train_r2": 1.0,
+  "test_r2": 1.0,
+  "cv_r2_mean": 1.0,
+  "cv_r2_std": 0.0,
+  "train_rmse": 9.298341530198969e-15,
+  "test_rmse": 1.0539051923921737e-14,
+  "n_samples": 100,
+  "n_features": 8
+}
