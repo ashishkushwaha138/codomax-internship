@@ -1,0 +1,32 @@
+{
+  "model_type": "LinearRegression",
+  "features": [
+    "math_score",
+    "physics_score",
+    "chemistry_score",
+    "english_score",
+    "cs_score",
+    "attendance_pct",
+    "study_hours_per_week",
+    "age"
+  ],
+  "n_samples": 100,
+  "metrics": {
+    "MAE": 6.1817218011128716e-15,
+    "MSE": 9.138164726080201e-29,
+    "RMSE": 9.559374836295626e-15,
+    "R2_Score": 1.0,
+    "MAPE": 8.22155154469542e-15,
+    "Max_Error": 2.842170943040401e-14,
+    "Median_AE": 0.0,
+    "Explained_Variance": 1.0
+  },
+  "residual_stats": {
+    "mean": -2.4868995751603505e-15,
+    "std": 9.276721042310027e-15,
+    "min": -2.842170943040401e-14,
+    "max": 1.4210854715202004e-14
+  },
+  "performance_rating": "EXCELLENT",
+  "variance_explained_pct": 100.0
+}
