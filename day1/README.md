@@ -1,1 +1,0 @@
-# codomax-internship
