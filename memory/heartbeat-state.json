@@ -1,10 +1,13 @@
 {
   "lastChecks": {
-    "heartbeat": 1786740594,
-    "weather": 1786740273,
+    "heartbeat": 1786743041,
+    "weather": 1786743041,
     "gitDirty": true,
     "email": 1786723402,
     "calendar": 1786723402,
-    "social": null
+    "social": 1786742706,
+    "memory": 1786743041,
+    "disk": 1786743041,
+    "git": 1786743086
   }
 }
