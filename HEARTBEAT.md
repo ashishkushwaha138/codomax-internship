@@ -24,3 +24,6 @@
 [2026-08-14 20:03:13 UTC] Heartbeat poll processed. Weather: Ashburn: Sunny +89°F, Disk: 76%, Memory: 1.2GiB/1.9GiB, Git: dirty (16 changes)
 [2026-08-14 20:05:11 UTC] Heartbeat poll processed. Weather: Ashburn: ☀️  +89°F, Disk: 76%, Memory: 1.2GiB/1.9GiB, Git: 16 changes
 [20:11 UTC] Heartbeat poll processed. Weather: Sunny +89°F ↓2mph, Disk: 76%, Memory: 1.2Gi/1.9Gi, Git: 16 changes
+[2026-08-14 20:15:42 UTC] Heartbeat poll processed. Weather: weather (skipped, recent), Disk: 76%, Memory: unknown, git: 13 changes
+- 2026-08-14 20:20:19 UTC Heartbeat check: email (skipped, no credentials) calendar (skipped, no credentials) weather (skipped, recent) social (skipped, no credentials) git: dirty
+- 2026-08-14 20:28:06 UTC Heartbeat check: email (skipped, no credentials) calendar (skipped, no credentials) weather (skipped, recent) social (skipped, no credentials) git: dirty
