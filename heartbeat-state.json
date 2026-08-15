@@ -2,11 +2,12 @@
   "lastChecks": {
     "email": 1786747031,
     "calendar": 1786747031,
-    "weather": 1786749597,
+    "weather": 1786751886,
     "social": 1786747031,
-    "git": 1786749448,
-    "heartbeat": 1786749448,
-    "memory": 1786749517
+    "git": 1786751789,
+    "heartbeat": 1786751886,
+    "memory": 1786749517,
+    "gitDirty": true
   },
   "gitDirty": true
 }
